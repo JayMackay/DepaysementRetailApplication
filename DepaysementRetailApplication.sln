@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepaysementRetailApplicatio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepaysementRetailApplication.Domain", "DepaysementRetailApplication.Domain\DepaysementRetailApplication.Domain.csproj", "{ED1E4411-EF63-4617-8E7D-4D0CA908B222}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepaysementRetailApplication.Infrastructure", "DepaysementRetailApplication.Infrastructure\DepaysementRetailApplication.Infrastructure.csproj", "{5C064A7D-F269-45CA-8F1E-7BB67F46FAEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{ED1E4411-EF63-4617-8E7D-4D0CA908B222}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED1E4411-EF63-4617-8E7D-4D0CA908B222}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED1E4411-EF63-4617-8E7D-4D0CA908B222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C064A7D-F269-45CA-8F1E-7BB67F46FAEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C064A7D-F269-45CA-8F1E-7BB67F46FAEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C064A7D-F269-45CA-8F1E-7BB67F46FAEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C064A7D-F269-45CA-8F1E-7BB67F46FAEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
